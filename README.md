@@ -1,13 +1,13 @@
-# ARIMA statsmodel-Cryptocurrency Analysis
+# Cryptocurrency Analysis
 ## This app gives us the analysis of various cryptocurrencies.
 We have developed an app which predicts the future cryptocurrency values of btc-usd,eth-usd.Took the csv file of bitcoin and found the rolling mean,variance.Plotted the vanila decomposition graph for cryptos.
 ### Team Details:
 #### Team Name: TEKKYZ
-#### Team Leader: MOHAMED FARHUN M 
-#### Members: NANDHAKUMAR S,DHIVAKAR S
+#### Team Leader: NANDHAKUMAR S 
+#### Members: MOHAMED FARHUN M,DHIVAKAR S
 #### Designation: Student at BANNARI AMMAN INSTITUTE OF TECHNOLOGY, SATHYAMANGALAM.
-#### Contact: +919360593132
-#### Mail: mohamedfarhun.it20@bitsathy.ac.in
+#### Contact: +919488393947
+#### Mail: nandhakumar.it20@bitsathy.ac.in
 
 ## What we used......
 • Daisi
@@ -24,8 +24,6 @@ We have developed an app which predicts the future cryptocurrency values of btc-
 
 • yfinance
 
-
-• Statsmodel
 
 
 #### We have done our project in the daisi platform (https://app.daisi.io/daisies/farhun/Analysis%20of%20cryptocurrencies/app) using Streamlit UI. We used yfinance-Yahoo finance(fetches live dataset of cryptos) from which we can have a statistical analysis of cryptos(graphically).

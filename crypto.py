@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd 
 from pandas import DataFrame
 import matplotlib.pyplot as plt
-from pandas import datetime
+import datetime
 from pandas import read_csv
 from statsmodels.tsa.arima.model import ARIMA
 import statsmodels.api as sm
